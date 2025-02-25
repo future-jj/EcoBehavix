@@ -1,4 +1,4 @@
-package com.ecobehavix.ecobehavix;
+package com.ecobehavix;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
